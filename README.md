@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/ae459">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Amir%20Elmahalawy" alt="Hello! I'm Amir Elmahalawy" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF0000&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Amir%20Elmahalawy" alt="Hello! I'm Amir Elmahalawy" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=IT%20Project%20Management%20%7C%20NJIT%20Information%20Technology%20Graduate;Open%20to%20IT%20%26%20Project%20Management%20Opportunities" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=0000FF&center=true&vCenter=true&width=900&height=44&lines=IT%20Project%20Management%20%7C%20NJIT%20Information%20Technology%20Graduate;Open%20to%20IT%20%26%20Project%20Management%20Opportunities" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
